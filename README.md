@@ -5,6 +5,8 @@
 
 - 🗣 Languages: TypeScript ❤️ - Javascript - Golang 🍼 - English 🇺🇸 - Vietnamese
 
+- 🔭 Currently maintenance self-project <a href="https://chromewebstore.google.com/detail/estatics-extension/momgcmdnlbopbcmglainncpclaopfkje?pli=1" target="_blank">Estatics</a>
+
 - 💬 Ask me about **React, React Native, NodeJS, Golang**
 
 - 📫 How to reach me **phamanhson1993@gmail.com**
